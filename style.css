@@ -62,14 +62,17 @@ body {
   color: hsl(220, 15%, 55%);
 }
 
-.attribution {
-  font-size: 1.1rem;
-  text-align: center;
+footer {
   width: 100%;
   position: fixed;
   bottom: 0;
   left: 50%;
   transform: translate(-50%, -20%);
+}
+
+.attribution {
+  font-size: 1.1rem;
+  text-align: center;
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
